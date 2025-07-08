@@ -1,0 +1,6 @@
+{
+  "motion": {
+    "Opening": "action://ubtrobot/Opening",
+    "right": "action://ubtrobot/guideright"
+  }
+} 

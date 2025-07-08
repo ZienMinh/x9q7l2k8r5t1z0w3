@@ -1,0 +1,613 @@
+{
+  "home": {
+    "navbar.title": "请选择功能",
+    "directions": "指导",
+    "shopping": "购物",
+    "food&drink": "吃和喝"
+  },
+  "lang": {
+    "title": "Chinese",
+    "voice": "zh-CN",
+    "select": "请选择语言",
+    "flag": "china"
+  },
+  "directions": {
+    "label.navigate": "导航",
+    "label.menu": "菜单",
+    "navbar.title": "请扫描二维码获取排队号码",
+    "places.group1": [
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "1-2-3 门",
+        "fileName": "gate123.mp4",
+        "instruction": "往左直走125米，然後左轉再走 5米。"
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "4-5 门",
+        "fileName": "gate45.mp4",
+        "instruction": "往左直走40米，然後右轉再走10米。"
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "吸烟室",
+        "fileName": "smoking.left.mp4",
+        "instruction": "往左走110米，吸烟室在左边，对面是Crystal Jade Kitchen"
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "男厕所",
+        "fileName": "restroom.left.mp4",
+        "instruction": "直行左側60米，男廁位於左側"
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "女厕所",
+        "fileName": "restroom.left.mp4",
+        "instruction": "直行左側45米，女廁位於左側"
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "Sun Coast Lounge",
+        "fileName": "suncoastlounge.mp4",
+        "instruction": "向右直走118m，Sun Coast Lounge 就在右边，在Crystal Jade Kitchen的旁边。"
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "增值税柜台 - Vietinbank",
+        "fileName": "vietinbank.mp4",
+        "instruction": "向左直行30m，退税柜台在右侧。"
+      }
+    ],
+    "places.group2": [
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "6-7门",
+        "fileName": "gate67.mp4",
+        "instruction": "向右直行40m，然后左转再行10m。"
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "8-9-10门",
+        "fileName": "gate8910.mp4",
+        "instruction": "往右直走125米，然後右轉再走5米。"
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "吸烟室",
+        "fileName": "smoking.right.mp4",
+        "instruction": "者往右走110米，吸烟室在右边，对面是Burger King。"
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "女厕所",
+        "fileName": "restroom.right.mp4",
+        "instruction": "往右直走45米，女廁位於右側"
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "男厕所",
+        "fileName": "restroom.right.mp4",
+        "instruction": "位於左側或往右直走60米，男廁位於右側。"
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "Lotus Lounge",
+        "fileName": "lotuslounge.mp4",
+        "instruction": "向右直走118m，Lotus Lounge 就在左边，Burger King 旁边。"
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "卫生部门",
+        "fileName": "medical.mp4",
+        "instruction": "往右直走120米，然後左轉再走5米。"
+      }
+    ]
+  },
+  "shopping": {
+    "navbar.title": "购物",
+    "stores": [
+      {
+        "icon": "lottedutyfree.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "",
+        "name": "乐天免税店 – 化妆品",
+        "instruction": "直走，前方6m。",
+        "fileName": "lottedutyfree.behind.mp4",
+        "categories": [
+          {
+            "name": "奢侈品",
+            "menu": ["化妆品", "PFM", "酒精饮料", "烟草", "珠宝", "手表"]
+          }
+        ]
+      },
+      {
+        "icon": "lottedutyfree.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Lotte Duty Free – Fashion",
+        "instruction": "右转，直走30m，商店就在右边。",
+        "fileName": "lottedutyfree.right.mp4",
+        "categories": [
+          {
+            "name": "奢侈品",
+            "menu": ["化妆品", "PFM", "酒精饮料", "烟草", "珠宝", "手表"]
+          }
+        ]
+      },
+      {
+        "icon": "lottedutyfree.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Lotte Duty Free – 手表和珠宝",
+        "instruction": "左转，直行30m，商店在左边",
+        "fileName": "lottedutyfree.left.mp4",
+        "categories": [
+          {
+            "name": "奢侈品",
+            "menu": ["化妆品", "PFM", "酒精饮料", "烟草", "珠宝", "手表"]
+          }
+        ]
+      },
+      {
+        "icon": "longbeachpearl.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Long Beach Pearl",
+        "instruction": "左转，直行65m，左侧商店",
+        "fileName": "longbeachpearl.mp4",
+        "categories": [
+          {
+            "name": "奢侈品",
+            "menu": ["珍珠"]
+          }
+        ]
+      },
+      {
+        "icon": "qmart.jpg",
+        "background": "bgairport.jpeg",
+        "actions": "left,right",
+        "name": "Qmart",
+        "instruction": "左转，直行130m，左转，下至机场大厅（1-2-3号门）或右转，直行130m，右转下至机场大厅（8-9-10号门）。",
+        "fileName": "qmart.mp4",
+        "categories": [
+          {
+            "name": "奢侈品",
+            "menu": ["衣服 & 包包"]
+          }
+        ]
+      },
+      {
+        "icon": "vietnamsdelight.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right,left",
+        "name": "Vietnam's Delight",
+        "instruction": "右转，直行50m，商店在左边； 或者左转，直走50m，商店就在右边。",
+        "fileName": "vietnamsdelight.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+      {
+        "icon": "19islands.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "19 islands",
+        "instruction": "左转，直走40m，右转，再走7m，下楼梯，再走30m。",
+        "fileName": "19islands.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+      {
+        "icon": "viethouse.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Viet House",
+        "instruction": "右转，直走40m，左转，再走7m，下楼梯，再直走30m",
+        "fileName": "viethouse.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+      {
+        "icon": "souvenirfoodshop.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Souvenir and Special Food Shop",
+        "instruction": "左转，直行50m，商店在左边",
+        "fileName": "souvenirfoodshop.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+      {
+        "icon": "relaxinghousespa.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Relaxing House Spa",
+        "instruction": "左转，直行40m，然后右转，再直行10m",
+        "fileName": "relaxinghousespa.mp4",
+        "categories": [
+          {
+            "name": "提供服务",
+            "menu": ["足部按摩"]
+          }
+        ]
+      },
+
+      {
+        "icon": "madeinvietnam.png",
+        "background": "bgairport.jpeg",
+        "actions": "right,left",
+        "name": "Made in Vietnam",
+        "instruction": "右转直走40m，再左转7m，下楼梯，商店就在右边。 或者右转，直走130m，商店在左边",
+        "fileName": "madeinvietnam.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+
+      {
+        "icon": "vietmesegiftshop.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Vietnamese Gift Shop",
+        "instruction": "左转，直走55m，商店在左边",
+        "fileName": "vietmesegiftshop.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+      {
+        "icon": "yenstore.png",
+        "background": "bgairport.jpeg",
+        "actions": "right,left",
+        "name": "Yen Store",
+        "instruction": "右转，直行85m，商店在左边； 或左转，直走85m，商店就在右边。",
+        "fileName": "yenstore.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+      {
+        "icon": "lananhshop.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Lan Anh Shop",
+        "instruction": "左邊，直走65米，右邊的商店。",
+        "fileName": "lananhshop.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+      {
+        "icon": "vietnamspecial.png",
+        "background": "bgairport.jpeg",
+        "actions": "left,left",
+        "name": "Vietnamese Specialities",
+        "instruction": "左转，直走40m，然后右转，下楼梯，商店位于机场大厅，4-5号门。 或者左转，直走130m，然后左转，下楼梯，商店位于机场大厅，门号1-2-3。",
+        "fileName": "vietnamspecial.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+      {
+        "icon": "luckygiftshop.png",
+        "background": "bgairport.jpeg",
+        "actions": "right,left",
+        "name": "Lucky Gift Shop",
+        "instruction": "右转，直行65m，商店在左边； 或左转，直走65m，商店就在右边。",
+        "fileName": "luckygiftshop.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+      {
+        "icon": "nhatrangspecial.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Nha Trang Specialities",
+        "instruction": "右转，直走55m，商店就在右边。",
+        "fileName": "nhatrangspecial.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+      {
+        "icon": "gourmetviet.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Gourmet Viet",
+        "instruction": "右转，直走50m，商店就在右边。",
+        "fileName": "gourmetviet.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["烟草"]
+          }
+        ]
+      },
+      {
+        "icon": "happyshopping.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Happy Shopping",
+        "instruction": "左转，直走130m，然后左转，下楼梯，商店位于机场大厅，门号1-2-3。",
+        "fileName": "happyshopping.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
+          }
+        ]
+      },
+      {
+        "icon": "victoriasecret.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Victoria’s Secret",
+        "instruction": "向左转，直走20米，商店在左边",
+        "fileName": "victoriasecret.mp4",
+        "categories": [
+          {
+            "name": "产品",
+            "menu": ["内衣", "女装", "化妆品"]
+          }
+        ]
+      },
+      {
+        "icon": "ohlatakamall.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Ohla Taka Mall",
+        "instruction": "向左转，直走130米，然后向左转，下楼梯，商店位于登机口1-2-3.",
+        "fileName": "ohlatakamall.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["地方纪念品"]
+          }
+        ]
+      }
+    ]
+  },
+  "food&drink": {
+    "navbar.title": "饮食",
+    "stores": [
+      {
+        "icon": "burgerking.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Burger King",
+        "instruction": "右转，直走100m，商店就在左边。",
+        "fileName": "burgerking.mp4",
+        "categories": [
+          {
+            "name": "食物",
+            "menu": ["Hamburger"]
+          },
+          {
+            "name": "饮料",
+            "menu": ["饮料", "咖啡"]
+          }
+        ]
+      },
+      {
+        "icon": "presto.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Presto Food and Drink",
+        "instruction": "左转，直行105m，在左边购物。",
+        "fileName": "presto.mp4",
+        "categories": [
+          {
+            "name": "饮料",
+            "menu": ["咖啡", "茶", "果汁"]
+          }
+        ]
+      },
+      {
+        "icon": "yenrestaurant.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Yen Restaurant",
+        "instruction": "左转，直走130m，商店就在右边。",
+        "fileName": "yenrestaurant.mp4",
+        "categories": [
+          {
+            "name": "食物",
+            "menu": ["河粉", "面条", "面包"]
+          },
+          {
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "冰沙"]
+          }
+        ]
+      },
+      {
+        "icon": "foodanddrink.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Food and Drink",
+        "instruction": "右转，直行105m，店铺在右侧。",
+        "fileName": "foodanddrink.mp4",
+        "categories": [
+          {
+            "name": "食物",
+            "menu": ["河粉", "面条"]
+          },
+          {
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "茶"]
+          }
+        ]
+      },
+      {
+        "icon": "vietnamfvd.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Vietnamese Food & Drink",
+        "instruction": "右转，直行130m，商店在左边。",
+        "fileName": "vietnamfvd.mp4",
+        "categories": [
+          {
+            "name": "食物",
+            "menu": ["河粉", "面条"]
+          },
+          {
+            "name": "饮料",
+            "menu": ["咖啡", "果汁"]
+          }
+        ]
+      },
+      {
+        "icon": "yourvietnam.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Your Vietnam",
+        "instruction": "右转，直行130m，然后右转，下楼梯，商店位于出发休息室，门8-9-10。",
+        "fileName": "yourvietnam.mp4",
+        "categories": [
+          {
+            "name": "食物",
+            "menu": ["河粉", "面条", "面包"]
+          },
+          {
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "茶"]
+          }
+        ]
+      },
+      {
+        "icon": "purogusto.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Puro Gusto",
+        "instruction": "右转，直走100m，商店就在右边。",
+        "fileName": "purogusto.mp4",
+        "categories": [
+          {
+            "name": "食物",
+            "menu": ["河粉", "面条", "面包"]
+          },
+          {
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "茶", "冰沙", "奶茶", "冰淇淋"]
+          }
+        ]
+      },
+      {
+        "icon": "coffee.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "咖啡",
+        "instruction": "左转，直行100m，商店在左边",
+        "fileName": "coffee.mp4",
+        "categories": [
+          {
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "茶", "冰沙", "奶茶", "冰淇淋"]
+          }
+        ]
+      },
+      {
+        "icon": "starcafe.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right,left",
+        "name": "Star Cafe",
+        "instruction": "右转，直行40m，然后左转，下楼梯； 或左转，直行40m，然后右转，下楼梯。 商店位于机场大厅，4-5号门和6-7号门",
+        "fileName": "starcafe.mp4",
+        "categories": [
+          {
+            "name": "食物",
+            "menu": ["河粉", "面条", "面包"]
+          },
+          {
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "茶", "冰沙", "奶茶", "冰淇淋"]
+          }
+        ]
+      },
+      {
+        "icon": "crystaljade.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Crystal Jade",
+        "instruction": "左转，直走100m，商店就在右边。",
+        "fileName": "crystaljade.mp4",
+        "categories": [
+          {
+            "name": "食物",
+            "menu": ["中国菜"]
+          },
+          {
+            "name": "饮料",
+            "menu": ["草药茶", "水果糖浆", "饮料"]
+          }
+        ]
+      },
+      {
+        "icon": "tahaka.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Taha-ka",
+        "instruction": "右转，直行130m，然后右转，下楼梯。 商店位于机场大厅，门号1-2-3。",
+        "fileName": "tahaka.mp4",
+        "categories": [
+          {
+            "name": "食物",
+            "menu": []
+          }
+        ]
+      }
+    ]
+  }
+}

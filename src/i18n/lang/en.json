@@ -1,0 +1,657 @@
+{
+  "home": {
+    "navbar.title": "Please select a function",
+    "directions": "Directions",
+    "shopping": "Shopping",
+    "food&drink": "Food & Drink",
+    "emotions": "Emotions"
+  },
+  "lang": {
+    "title": "English",
+    "voice": "en-US",
+    "select": "Please select your language",
+    "flag": "uk"
+  },
+
+  "directions": {
+    "label.navigate": "Navigate",
+    "label.menu": "Menu",
+    "navbar.title": "Please scan the QR code to get the queue number",
+    "places.group1": [
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "Gate 1, 2, 3",
+        "fileName": "gate123.mp4",
+        "instruction": "Go straight to the left 125m, then turn left for another 5m, the door down is on the left."
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "Gate 4, 5",
+        "fileName": "gate45.mp4",
+        "instruction": "Go straight to the left for 40m, then turn right for another 10m, the door down to the gate is on the left."
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "Smoking room",
+        "fileName": "smoking.left.mp4",
+        "instruction": "Go straight to the left 110m, the smoking room is on the left, opposite the Crystal Jade Kitchen."
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "Men's restroom",
+        "fileName": "restroom.left.mp4",
+        "instruction": "Go straight to the left for 60m, the men's restroom is on the left."
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "Women's restroom",
+        "fileName": "restroom.left.mp4",
+        "instruction": "Go straight to the left 45m, the women's restroom is on the left."
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "Sun Coast Lounge",
+        "fileName": "suncoastlounge.mp4",
+        "instruction": "Sun Coast Lounge is located on the left, right next to Crystal Jade Kitchen."
+      },
+      {
+        "icon": "",
+        "actions": "left",
+        "name": "Value Added Tax Refund Counter - Vietinbank",
+        "fileName": "vietinbank.mp4",
+        "instruction": "Go straight left for 30m, the tax refund counter is on the right."
+      }
+    ],
+    "places.group2": [
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "Gate 6, 7",
+        "fileName": "gate67.mp4",
+        "instruction": "Go straight to the right 40m, then turn left to go another 10m."
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "Gate 8, 9, 10",
+        "fileName": "gate8910.mp4",
+        "instruction": "Go straight to the right 125m, then turn right to go another 5m."
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "Smoking room",
+        "fileName": "smoking.right.mp4",
+        "instruction": "Go straight to the right 110, the smoking room is located on the right, opposite Burger King."
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "Women's restroom",
+        "fileName": "restroom.right.mp4",
+        "instruction": "Go straight to the right 45m, the women's restroom is on the right."
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "Men's restroom",
+        "fileName": "restroom.right.mp4",
+        "instruction": "Go straight to the right 60m, the men's restroom is on the right."
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "Lotus Lounge",
+        "fileName": "lotuslounge.mp4",
+        "instruction": "Go straight to the right 118m, Lotus Lounge is on the left, right next to Burger King."
+      },
+      {
+        "icon": "",
+        "actions": "right",
+        "name": "Medical room",
+        "fileName": "medical.mp4",
+        "instruction": "Go straight to the right 120m, then turn left for another 5m."
+      }
+    ]
+  },
+  "shopping": {
+    "navbar.title": "Shopping",
+    "stores": [
+      {
+        "icon": "lottedutyfree.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "",
+        "name": "Lotte Duty Free – Cosmetic",
+        "instruction": "Go straight, 6m ahead.",
+        "fileName": "lottedutyfree.behind.mp4",
+        "categories": [
+          {
+            "name": "Brand Stuff",
+            "menu": [
+              "Cosmetic",
+              "PFM",
+              "Liquor",
+              "Tobacco",
+              "Jewellery",
+              "Watch"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "lottedutyfree.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Lotte Duty Free – Fashion",
+        "instruction": "Turn right, go straight 30m, the store is on the right side",
+        "fileName": "lottedutyfree.right.mp4",
+        "categories": [
+          {
+            "name": "Brand Stuff",
+            "menu": [
+              "Cosmetic",
+              "PFM",
+              "Liquor",
+              "Tobacco",
+              "Jewellery",
+              "Watch"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "lottedutyfree.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Lotte Duty Free – Watch & Jewelry",
+        "instruction": "Turn left, go straight 30m, the store is on the left.",
+        "fileName": "lottedutyfree.left.mp4",
+        "categories": [
+          {
+            "name": "Brand Stuff",
+            "menu": [
+              "Cosmetic",
+              "PFM",
+              "Liquor",
+              "Tobacco",
+              "Jewellery",
+              "Watch"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "longbeachpearl.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Long Beach Pearl",
+        "instruction": "Turn left, go straight 65m, shop on the left.",
+        "fileName": "longbeachpearl.mp4",
+        "categories": [
+          {
+            "name": "Brand Stuff",
+            "menu": ["Pearl"]
+          }
+        ]
+      },
+      {
+        "icon": "qmart.jpg",
+        "background": "bgairport.jpeg",
+        "actions": "left,right",
+        "name": "Qmart",
+        "instruction": "Turn left, go straight 130m, turn left, go down to the airport lobby (doors 1-2-3) or right, go straight 130m, turn right to go down to the airport lobby (gates 8- 9- 10).",
+        "fileName": "qmart.mp4",
+        "categories": [
+          {
+            "name": "Brand Stuff",
+            "menu": ["Clothes and bags"]
+          }
+        ]
+      },
+      {
+        "icon": "vietnamsdelight.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right,left",
+        "name": "Vietnam's Delight",
+        "instruction": "Turn right, go straight 50m, the store is on the left; or turn left, go straight 50m, the store is on the right.",
+        "fileName": "vietnamsdelight.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+      {
+        "icon": "19islands.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "19 islands",
+        "instruction": "Turn left, go straight 40m, turn right, go another 7m, go down the stairs, go another 30m.",
+        "fileName": "19islands.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+      {
+        "icon": "viethouse.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Viet House",
+        "instruction": "Turn right, go straight 40m, turn left, go another 7m, go down the stairs, go straight another 30m",
+        "fileName": "viethouse.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+      {
+        "icon": "souvenirfoodshop.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Souvenir and Special Food Shop",
+        "instruction": "Turn left, go straight 50m, the store is on the left",
+        "fileName": "souvenirfoodshop.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+      {
+        "icon": "relaxinghousespa.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Relaxing House Spa",
+        "instruction": "Turn left, go straight 40m, then turn right, go straight another 10m.",
+        "fileName": "relaxinghousespa.mp4",
+        "categories": [
+          {
+            "name": "Service",
+            "menu": ["Foot Massage"]
+          }
+        ]
+      },
+
+      {
+        "icon": "madeinvietnam.png",
+        "background": "bgairport.jpeg",
+        "actions": "right,left",
+        "name": "Made in Vietnam",
+        "instruction": "Turn right, go straight 40m, then turn left and go 7m, down the stairs, the store is on the right. Or turn right, go straight 130m, the store is on the left",
+        "fileName": "madeinvietnam.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+
+      {
+        "icon": "vietmesegiftshop.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Vietnamese Gift Shop",
+        "instruction": "Turn left, go straight 55m, the store is on the left",
+        "fileName": "vietmesegiftshop.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+      {
+        "icon": "yenstore.png",
+        "background": "bgairport.jpeg",
+        "actions": "right,left",
+        "name": "Yen Store",
+        "instruction": "Turn right, go straight 85m, the store is on the left; or turn left, go straight 85m, the store is on the right.",
+        "fileName": "yenstore.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+      {
+        "icon": "lananhshop.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Lan Anh Shop",
+        "instruction": "On the left, go straight 65m, the shop on the right.",
+        "fileName": "lananhshop.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+      {
+        "icon": "vietnamspecial.png",
+        "background": "bgairport.jpeg",
+        "actions": "left,left",
+        "name": "Vietnamese Specialities",
+        "instruction": "Turn left, go straight 40m, then turn right, go down the stairs, the store is located in the airport lobby, doors 4-5. Or turn left, go straight 130m, then turn left, go down the stairs, the store is located in the airport lobby, door number 1-2-3.",
+        "fileName": "vietnamspecial.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+      {
+        "icon": "luckygiftshop.png",
+        "background": "bgairport.jpeg",
+        "actions": "right,left",
+        "name": "Lucky Gift Shop",
+        "instruction": "Turn right, go straight 65m, the store is on the left; or turn left, go straight 65m, the store is on the right.",
+        "fileName": "luckygiftshop.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+      {
+        "icon": "nhatrangspecial.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Nha Trang Specialities",
+        "instruction": "Turn right, go straight 55m, the store is on the right.",
+        "fileName": "nhatrangspecial.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+      {
+        "icon": "gourmetviet.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Gourmet Viet",
+        "instruction": "Turn right, go straight 50m, the store is on the right.",
+        "fileName": "gourmetviet.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Tobacco"]
+          }
+        ]
+      },
+      {
+        "icon": "happyshopping.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Happy Shopping",
+        "instruction": "Turn left, go straight 130m, then turn left, go down the stairs, the store is located in the airport lobby, door number 1-2-3.",
+        "fileName": "happyshopping.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Souvenir", "VietNam Specialities"]
+          }
+        ]
+      },
+      {
+        "icon": "victoriasecret.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Victoria’s Secret",
+        "instruction": "Turn left, walk straight for 20 meters, the store is on the left.",
+        "fileName": "victoriasecret.mp4",
+        "categories": [
+          {
+            "name": "Products",
+            "menu": ["Underwear", "Women's clothing", "Cosmetics"]
+          }
+        ]
+      },
+      {
+        "icon": "ohlatakamall.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Ohla Taka Mall",
+        "instruction": "Turn left, walk straight for 130 meters, then turn left, go down the stairs, the store is located in the departure lounge, gate number 1-2-3.",
+        "fileName": "ohlatakamall.mp4",
+        "categories": [
+          {
+            "name": "Souvenirs",
+            "menu": ["Local souvenirs"]
+          }
+        ]
+      }
+    ]
+  },
+  "food&drink": {
+    "navbar.title": "Food & Drink",
+    "stores": [
+      {
+        "icon": "burgerking.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Burger King",
+        "instruction": "Turn right, go straight 100m, the store is on the left.",
+        "fileName": "burgerking.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": ["Hamburger"]
+          },
+          {
+            "name": "Beverage",
+            "menu": ["Drinks", "Coffee"]
+          }
+        ]
+      },
+      {
+        "icon": "presto.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Presto Food and Drink",
+        "instruction": "Turn left, go straight 105m, shop on the left.",
+        "fileName": "presto.mp4",
+        "categories": [
+          {
+            "name": "Beverage",
+            "menu": ["Coffee", "Tea", "Fruit Juice"]
+          }
+        ]
+      },
+      {
+        "icon": "yenrestaurant.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Yen Restaurant",
+        "instruction": "Turn left, go straight 130m, the store is on the right.",
+        "fileName": "yenrestaurant.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": ["Pho", "Noodle", "Bread"]
+          },
+          {
+            "name": "Beverage",
+            "menu": ["Coffee", "Fruit Juice", "Smoothie"]
+          }
+        ]
+      },
+      {
+        "icon": "foodanddrink.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Food and Drink",
+        "instruction": "Turn right, go straight 105m, shop on the right.",
+        "fileName": "foodanddrink.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": ["Pho", "Noodle"]
+          },
+          {
+            "name": "Beverage",
+            "menu": ["Coffee", "Fruit Juice", "Tea"]
+          }
+        ]
+      },
+      {
+        "icon": "vietnamfvd.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Vietnamese Food & Drink",
+        "instruction": "Turn right, go straight 130m, the store is on the left.",
+        "fileName": "vietnamfvd.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": ["Pho", "Noodle"]
+          },
+          {
+            "name": "Beverage",
+            "menu": ["Coffee", "Fruit Juice"]
+          }
+        ]
+      },
+      {
+        "icon": "yourvietnam.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Your Vietnam",
+        "instruction": "Turn right, go straight 130m, then turn right, go down the stairs, the store is located in the departure lounge, doors 8-9-10.",
+        "fileName": "yourvietnam.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": ["Pho", "Noodle", "Bread"]
+          },
+          {
+            "name": "Beverage",
+            "menu": ["Coffee", "Fruit Juice", "Tea"]
+          }
+        ]
+      },
+      {
+        "icon": "purogusto.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Puro Gusto",
+        "instruction": "Turn right, go straight 100m, the store is on the right.",
+        "fileName": "purogusto.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": ["Pho", "Noodle", "Bread"]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Tea",
+              "Smoothies",
+              "Milk Tea",
+              "Ice cream"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "coffee.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Coffee",
+        "instruction": "Turn left, go straight 100m, the shop is on the left",
+        "fileName": "coffee.mp4",
+        "categories": [
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Tea",
+              "Smoothies",
+              "Milk Tea",
+              "Ice cream"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "starcafe.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "right,left",
+        "name": "Star Cafe",
+        "instruction": "Turn right, go straight 40m, then turn left, down the stairs; or turn left, go straight 40m, then turn right, down the stairs. The store is located in the airport lobby, doors 4-5 and doors 6-7",
+        "fileName": "starcafe.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": ["Pho", "Noodle", "Bread"]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Tea",
+              "Smoothies",
+              "Milk Tea",
+              "Ice cream"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "crystaljade.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Crystal Jade",
+        "instruction": "Turn left, go straight 100m, the store is on the right.",
+        "fileName": "crystaljade.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": ["Chinese Cuisine"]
+          },
+          {
+            "name": "Beverage",
+            "menu": ["Herbal Tea", "Fruity Nade", "Drinks"]
+          }
+        ]
+      },
+      {
+        "icon": "tahaka.png",
+        "background": "bgairport.jpeg",
+        "actions": "right",
+        "name": "Taha-ka",
+        "instruction": "Turn right, go straight 130m, then turn right, down the stairs. The store is located in the airport lobby, door number 1-2-3.",
+        "fileName": "tahaka.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": []
+          }
+        ]
+      }
+    ]
+  }
+}

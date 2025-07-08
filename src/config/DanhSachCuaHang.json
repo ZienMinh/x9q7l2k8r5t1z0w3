@@ -1,0 +1,356 @@
+[
+  {
+    "logo": "http://camranh.aero/sites/default/files/2018-08/ldf.jpg",
+    "name": "Lotte Duty Free",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Brand Stuff",
+        "menu": ["Cosmetic", "PFM", "Liquor", "Tobacco", "Jewellery", "Watch"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Long Beach Pearl",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Brand Stuff",
+        "menu": ["Pearl"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Presto Food and Drink",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Beverage",
+        "menu": ["Coffee", "Tea", "Fruit Juice"]
+      }
+    ]
+  },
+  {
+    "logo": "https://camranh.aero/sites/default/files/2019-06/Yen%20Store.jpg",
+    "name": "Yen Restaurant",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Foods",
+        "menu": ["Pho", "Noodle", "Bread"]
+      },
+      {
+        "name": "Beverage",
+        "menu": ["Coffee", "Fruit Juice", "Smoothie"]
+      }
+    ]
+  },
+  {
+    "logo": "https://camranh.aero/sites/default/files/2018-08/mg.jpg",
+    "name": "Men's Gallery",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Brand Stuff",
+        "menu": ["Clothes and bags"]
+      }
+    ]
+  },
+  {
+    "logo": "https://camranh.aero/sites/default/files/2018-08/vndl.jpg",
+    "name": "Vietnam's Delight",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "https://camranh.aero/sites/default/files/2018-08/19l.jpg",
+    "name": "19 islands",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "https://camranh.aero/sites/default/files/2018-08/vh.jpg",
+    "name": "Viet House",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Vietnamese Food & Drink",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Foods",
+        "menu": ["Pho", "Noodle"]
+      },
+      {
+        "name": "Beverage",
+        "menu": ["Coffee", "Fruit Juice"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Souvenir and Special Food Shop",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Relaxing House Spa",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Service",
+        "menu": ["Foot Massage"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Premier Mart",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Food and Drink",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Foods",
+        "menu": ["Pho", "Noodle"]
+      },
+      {
+        "name": "Beverage",
+        "menu": ["Coffee", "Fruit Juice", "Tea"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Made in Vietnam",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "CMC Leather",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Brand Stuff",
+        "menu": ["Leather"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Vietnamese Gift Shop",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Yen Store",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Lan Anh Shop",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Vietnamese Specialities",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Lucky Gift Shop",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Nha Trang Specialities",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Tobaco and Souvenir",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Tobacco"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Your Vietnam",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Foods",
+        "menu": ["Pho", "Noodle", "Bread"]
+      },
+      {
+        "name": "Beverage",
+        "menu": ["Coffee", "Fruit Juice", "Tea"]
+      }
+    ]
+  },
+  {
+    "logo": "",
+    "name": "Happy Shopping",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Souvenir",
+        "menu": ["Souvenir", "VietNam Specialities"]
+      }
+    ]
+  },
+  {
+    "logo": "https://camranh.aero/sites/default/files/2018-08/pg.jpg",
+    "name": "Puro Gusto",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Foods",
+        "menu": ["Pho", "Noodle", "Bread"]
+      },
+      {
+        "name": "Beverage",
+        "menu": [
+          "Coffee",
+          "Fruit Juice",
+          "Tea",
+          "Smoothies",
+          "Milk Tea",
+          "Ice cream"
+        ]
+      }
+    ]
+  },
+  {
+    "logo": "https://camranh.aero/sites/default/files/2018-08/sc.jpg",
+    "name": "Star Cafe",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Foods",
+        "menu": ["Pho", "Noodle", "Bread"]
+      },
+      {
+        "name": "Beverage",
+        "menu": [
+          "Coffee",
+          "Fruit Juice",
+          "Tea",
+          "Smoothies",
+          "Milk Tea",
+          "Ice cream"
+        ]
+      }
+    ]
+  },
+  {
+    "logo": "https://camranh.aero/sites/default/files/2018-08/cjk.jpg",
+    "name": "Crystal Jade",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Foods",
+        "menu": ["Chinese Cuisine"]
+      },
+      {
+        "name": "Beverage",
+        "menu": ["Herbal Tea", "Fruity Nade", "Drinks"]
+      }
+    ]
+  },
+  {
+    "logo": "https://camranh.aero/sites/default/files/2018-08/bgk.jpg",
+    "name": "Burger King",
+ "instruction": "The women's toilet is on the left or goes straight to the right 45m, the women's toilet is on the right.",
+    "categories": [
+      {
+        "name": "Foods",
+        "menu": ["Hamburger"]
+      },
+      {
+        "name": "Beverage",
+        "menu": ["Drinks", "Coffee"]
+      }
+    ]
+  }
+]
