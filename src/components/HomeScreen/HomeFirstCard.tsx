@@ -28,7 +28,7 @@ const FirstCard: React.FC<Props> = ({ title, screen, colors, icon }) => {
 
   const onPress = useCallback(() => {
     if (screen === Config.ROUTER.DIRECTION_SCREEN) {
-      // perform goodbye action
+      // perform talk1 action
       MotionManager.performAction(CONSTANTS.ActionUris.TALK1).catch(err =>
         console.warn('Talk1 action failed', err),
       );

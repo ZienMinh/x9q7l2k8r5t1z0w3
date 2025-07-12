@@ -15,7 +15,8 @@
   "directions": {
     "label.navigate": "Chỉ đường",
     "label.menu": "Menu",
-    "navbar.title": "Vui lòng quét mã QR để lấy số thứ tự",
+    "navbar.title": " Vui lòng quét mã QR để tải ứng dụng lấy số thứ tự",
+    "navbar.instruction": "Xin chào quý khách, chào mừng đến với Trung tâm Phục vụ hành chính công Phường An Khánh.",
     "places.group1": [
       {
         "icon": "",

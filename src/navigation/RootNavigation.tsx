@@ -15,6 +15,7 @@ import HeaderContextProvider from '../providers/HeaderProvider';
 import NavigateScreen from '../screens/NavigateScreen';
 import StoreMenuScreen from '../screens/StoreMenuScreen';
 import EmotionScreen from '../screens/EmotionScreen';
+import OnboardingGuideScreen from '../screens/OnboardingGuideScreen';
 import { useNavigation } from '../hooks/useNavigation';
 import { Animated, StyleSheet, View, Dimensions } from 'react-native';
 
@@ -57,6 +58,8 @@ const AppNavigator = () => {
       Config.ROUTER.LANGUAGE_SCREEN,
       Config.ROUTER.SYNC_DATA_SCREEN,
       Config.ROUTER.SECURITY_SCREEN,
+      Config.ROUTER.DIRECTION_SCREEN,
+      Config.ROUTER.ONBOARDING_GUIDE_SCREEN,
     ],
     [],
   );
@@ -155,6 +158,10 @@ const AppNavigator = () => {
             <Stack.Screen
               name={Config.ROUTER.EMOTION_SCREEN}
               component={EmotionScreen}
+            />
+            <Stack.Screen
+              name={Config.ROUTER.ONBOARDING_GUIDE_SCREEN}
+              component={OnboardingGuideScreen}
             />
           </Stack.Group>
         </Stack.Navigator>

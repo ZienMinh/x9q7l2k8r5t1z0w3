@@ -20,7 +20,7 @@ const gridData = [
   {
     key: 'emotions',
     colors: ['#FF4081', '#F06292'], // pink gradient for emotion
-    icon: require('../assets/images/friendship-day.png'),
+    icon: require('../assets/images/physics.png'),
     screen: Config.ROUTER.EMOTION_SCREEN,
   },
 ] as const;
